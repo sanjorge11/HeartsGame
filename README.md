@@ -1,2 +1,2 @@
 # HeartsGame
-An implementation of Hearts card game
+A front-end implementation of Hearts card game
